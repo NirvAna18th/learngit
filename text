@@ -1,1 +1,10 @@
-士大夫撒啊   sssssssssssss
+$ git init
+
+$ git add 
+
+$ git commit -m 'xxx' xxx是版本的描述
+
+$ git status 修改文件的状态 具体那一行被修改了
+
+$ git reset --hard HEAD ^ 回溯 第几个版本
+slksjflksajflkdsajflksajfdsfl
