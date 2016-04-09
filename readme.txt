@@ -7,3 +7,5 @@ Git is free software distibuted under the stage
 
 Git tracks changes
 
+Git has a mutable index called stage
+
