@@ -5,3 +5,5 @@ Git is free software distribute under the GPL
 
 Git is free software distibuted under the stage
 
+Git tracks changes
+
